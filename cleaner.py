@@ -306,7 +306,9 @@ def clean_data(file):
             "mumbai": "Mumbai",
 
             "new delhi": "Delhi",
-            "delhi": "Delhi"
+            "delhi": "Delhi",
+
+            "pune": "Pune"
         }
 
         df["city"] = (
